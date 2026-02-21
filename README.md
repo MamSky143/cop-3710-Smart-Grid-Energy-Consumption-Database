@@ -1,4 +1,4 @@
-# cop-3701-Smart-Grid-Energy-Consumption-Database
+# cop-3710-Smart-Grid-Energy-Consumption-Database
 
 ## Project Scope:
 The database will have electrical measurements and values a span of ~4 years (2006-2010 from the dataset) and centered for analytic understanding (finding trends and relationships). 
