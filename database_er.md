@@ -15,3 +15,5 @@
 - 1:1 smart_meters and meter_locations
 - 1:M households → smart_meters
 - M:M households and rate_plans (thru household_to_rate_plans)
+
+(Schema is already in BCNF therefore no changes made)
