@@ -1,0 +1,7 @@
+id,plan_name,base_rate_per_kwh,peak_rate_per_kwh,effective_start_date,effective_end_date
+1,Standard,0.1465,0.2091,2006-01-01,2010-12-31
+2,Economy,0.1548,0.2019,2006-01-01,2010-12-31
+3,Premium,0.1369,0.1976,2006-01-01,2010-12-31
+4,Flat Rate Basic,0.1634,0.2259,2006-01-01,2010-12-31
+5,Green Energy Plus,0.101,0.1688,2006-01-01,2010-12-31
+6,Budget,0.1407,0.196,2006-01-01,2010-12-31
